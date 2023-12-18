@@ -2,7 +2,7 @@
 
 ## News
 
-V2 update coming soon...
+V2 update coming soon
 
 ## About
 
